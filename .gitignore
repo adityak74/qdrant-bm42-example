@@ -1,0 +1,3 @@
+*.json
+qdrant_storage
+.idea
